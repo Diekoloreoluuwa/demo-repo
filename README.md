@@ -1,4 +1,4 @@
-# Demo
+# My learning
 
 
-Desription of learning.
+Desription of learning!
